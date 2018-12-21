@@ -19,4 +19,4 @@ html {
 }
 
 /* Write your solution here */
-@media only screen and (min-width: 642px) and (max-width: 1090px) { #dolphin { top: -3%; transform: rotate(0.85turn); } }
+@media only screen and (min-width: 642px) and (max-width: 1090px) { #dolphin { top: -3%; transform: rotate(0.850turn); } }
